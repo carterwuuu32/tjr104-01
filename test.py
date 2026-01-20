@@ -1,5 +1,5 @@
 def sayHello():
-    print("打給厚")
+    print("打給厚~")
 
 
 sayHello()
